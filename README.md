@@ -4,6 +4,9 @@ This project is a simple real-time **moving object detection system** built with
 
 ---
 
+![Motion Detection Demo](motion_detector.jpg)     
+
+
 ## 📷 Features
 
 - Real-time webcam feed
